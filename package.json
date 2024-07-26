@@ -1,11 +1,11 @@
 {
-  "name": "project_name",
-  "description": "project_description",
+  "name": "haiderkhan_sample",
+  "description": "null",
   "version": "0.1.0",
   "private": true,
   "author": {
-    "name": "author_name",
-    "email": "author_email"
+    "name": "abdul-moize",
+    "email": "null"
   },
   "scripts": {
     "dev": "next dev",
